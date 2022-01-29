@@ -4,4 +4,4 @@
 
 ### My Result
 
-<img src="task0.png">
+<img src="../assets/task0.png" height="100">
